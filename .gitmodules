@@ -1,0 +1,15 @@
+[submodule "telegrambot"]
+	path = telegrambot
+	url = git@github.com:titaniper/telegrambot.git
+[submodule "kakaobot"]
+	path = kakaobot
+	url = git@github.com:titaniper/kakaobot.git
+[submodule "twitterbot"]
+	path = twitterbot
+	url = git@github.com:titaniper/twitterbot.git
+[submodule "discordbot"]
+	path = discordbot
+	url = git@github.com:titaniper/discordbot.git
+[submodule "slackbot"]
+	path = slackbot
+	url = git@github.com:titaniper/slackbot.git
